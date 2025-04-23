@@ -1,5 +1,4 @@
 package practicas;
-import java.util.Scanner;
 
 public class Ejercicio_2_4 {
     public static void main(String[] args) {

@@ -15,5 +15,6 @@ public class Ejercicio_1_7 {
         for (int i = 1; i <= num; i++){
             System.out.println("Numero: " + i);
         }
+        sc.close();
     }
 }

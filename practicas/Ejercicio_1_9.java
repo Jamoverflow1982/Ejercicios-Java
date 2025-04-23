@@ -16,5 +16,6 @@ public class Ejercicio_1_9 {
             suma+=i;
         }
         System.out.println("La suma de los numeros es: " + suma);
+        sc.close();
     }
 }

@@ -21,5 +21,6 @@ public class Ejercicio_1_6 {
         } else {
             System.out.println("El alumno reprobo con un promedio de: " + promedio);
         }
+        sc.close();
     }
 }

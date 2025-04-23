@@ -24,5 +24,6 @@ public class Ejercicio_2_6 {
         }
         System.out.println("El mayor es: " + mayor);
         System.out.println("El menor es: " + menor);
+        sc.close();
     }
 }

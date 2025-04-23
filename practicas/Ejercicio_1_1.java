@@ -19,5 +19,6 @@ public class Ejercicio_1_1 {
         } else {
             System.out.println("El numero es cero");
         }
+        sc.close();
     }
 }

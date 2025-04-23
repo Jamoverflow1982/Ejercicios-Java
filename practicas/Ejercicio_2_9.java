@@ -33,5 +33,6 @@ public class Ejercicio_2_9 {
                 System.out.println("Opcion Incorrecta");                
             }
         }
+        sc.close();
     }   
 }

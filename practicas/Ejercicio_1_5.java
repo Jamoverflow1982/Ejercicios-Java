@@ -17,6 +17,7 @@ public class Ejercicio_1_5 {
         {
             System.out.println("Usted es menor de edad");
         }
+        sc.close();
     }
-    }
+}
 

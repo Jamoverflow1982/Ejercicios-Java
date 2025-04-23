@@ -20,6 +20,7 @@ public class Ejercicio_1_2 {
         } else {
             System.out.println("El numero mayor es: " + num2);
         }
+        sc.close();
     }
 
 }

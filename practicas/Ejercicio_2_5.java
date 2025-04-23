@@ -22,5 +22,6 @@ public class Ejercicio_2_5 {
             }
         }
         System.out.println("Hay " + numpos + " numeros positivos, " + numneg + " numeros negativos y " + cero + " ceros.");
+        sc.close();
     }   
 }

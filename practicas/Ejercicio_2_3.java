@@ -19,5 +19,6 @@ public class Ejercicio_2_3 {
                 System.out.println("Intentos restantes: " + (3 - cont));
             }
         }
+        sc.close();
     }
 }

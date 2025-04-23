@@ -24,5 +24,6 @@ public class Ejercicio_1_8 {
                 System.out.println("El numero " + i + " es par entre " + num1 + " y " + num2);
             }
         }
+        sc.close();
     }
 }

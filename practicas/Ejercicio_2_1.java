@@ -16,5 +16,6 @@ public class Ejercicio_2_1 {
             }
         }
         System.out.println("El numero tiene " + cont + " digitos.");
+        sc.close();
     }
 }

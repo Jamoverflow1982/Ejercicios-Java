@@ -16,5 +16,6 @@ public class Ejercicio_1_4 {
         }else{
             System.out.println("El numero " + num + " no es divisible por 3 y por 5");
         }
+        sc.close();
     }
 }

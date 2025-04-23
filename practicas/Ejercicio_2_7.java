@@ -13,5 +13,6 @@ public class Ejercicio_2_7 {
             total *= i;
         }
         System.out.println("El factorial de " + num + " es: " + total);
+        sc.close();
     }
 }

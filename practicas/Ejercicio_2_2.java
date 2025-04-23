@@ -19,5 +19,6 @@ public class Ejercicio_2_2 {
         } else {
             System.out.println("El numero no es primo");
         }
+        sc.close();
     }
 }
